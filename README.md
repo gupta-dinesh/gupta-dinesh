@@ -1,9 +1,9 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dinesh Gupta</h1>
 
 ### :woman_technologist: About Me 
-- 👩🏻‍💻 Pronouns: He/His
-- 🎒 I’m in my 6th semester of BTech at [NIET](https://www.niet.co.in/)
-- 💼 I work in part time as a <strong>Flutter Developer</strong> for [Delywizz Software Solution](https://www.delywizz.com/).
+- 👩🏻‍💻 Pronouns: He/Hi
+- 🎒 I’m in my 6th semester of BTech at [NIET, Greater Noida.](https://www.niet.co.in/)
+- 💼 I work in part time as a **Flutter Developer** for [Delywizz Software Solution](https://www.delywizz.com/).
 - 👩🏻‍🏫 I love playing cricket, listening music & travelling. 
 - 🧭 I love exploring and working Cross Plateform Application Development and Machine Learning.
 - 🎭 I love speaking at events and connecting with people.
@@ -29,7 +29,7 @@
 	<a href="https://github.com/dineshgupta08710" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://github.com/dineshgupta08710/dineshgupta08710" alt="Github Stars" title="Star Mark Repo">
+    <a href="https://github.com/dineshgupta08710?tab=repositories" alt="Github Stars" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
     <a href="https://www.linkedin.com/in/dinesh-gupta-503054271/">
