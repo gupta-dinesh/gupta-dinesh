@@ -1,7 +1,7 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dinesh Gupta</h1>
 
 ### :woman_technologist: About Me 
-- 👩🏻‍💻 Pronouns: He/Hi
+- 👩🏻‍💻 Pronouns: He/His
 - 🎒 I’m in my 6th semester of BTech at [NIET, Greater Noida.](https://www.niet.co.in/)
 - 💼 I work in part time as a **Flutter Developer** for [Delywizz Software Solution](https://www.delywizz.com/).
 - 👩🏻‍🏫 I love playing cricket, listening music & travelling. 
