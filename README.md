@@ -22,7 +22,7 @@
 </div>
 
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dineshgupta08710)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gupta-dinesh)](https://git.io/streak-stats)  
 
 ### :coffee: Hit Me Up Here
 <p align="center">
