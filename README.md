@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 🎒 I’m in my 6th semester of BTech at [NIET, Greater Noida.](https://www.niet.co.in/)
+- 🎒 I’m in my final year of BTech at [NIET, Greater Noida.](https://www.niet.co.in/)
 - 💼 I work in part time as a **Flutter Developer** for [Delywizz Software Solution](https://www.delywizz.com/).
 - 👩🏻‍🏫 I love playing cricket, listening music & travelling. 
 - 🧭 I love exploring and working Cross Plateform Application Development and Machine Learning.
